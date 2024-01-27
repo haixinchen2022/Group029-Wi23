@@ -2,4 +2,4 @@
 
 
 
-Group project Cognitive Science 118A
+Group project Cogs 118A
